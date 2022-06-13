@@ -1,2 +1,6 @@
-# yakin_kampus
+# Yakın_Kampus
 Yakın Kampüs Kodların Paylaşıldığı Ortam
+
+# Author
+
+Tolgahan
